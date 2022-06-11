@@ -16,6 +16,6 @@
 # limitations under the License.
 #
 a5 2020
-
+cph1803
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_qssi.mk
